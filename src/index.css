@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Add this to ensure the dark theme covers the whole background smoothly */
+body {
+  background-color: #09090b; /* zinc-950 */
+  color: white;
+  margin: 0;
+  padding: 0;
+}
